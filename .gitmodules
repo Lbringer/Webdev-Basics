@@ -1,0 +1,3 @@
+[submodule "API/Digital-Library-API"]
+	path = API/Digital-Library-API
+	url = https://github.com/Lbringer/Digital-Library-API.git
