@@ -4,3 +4,6 @@
 [submodule "Frontend/Lkart"]
 	path = Frontend/Lkart
 	url = https://github.com/Lbringer/Lkart.git
+[submodule "API/Shout-Review"]
+	path = API/Shout-Review
+	url = https://github.com/Lbringer/Shout-Review.git
