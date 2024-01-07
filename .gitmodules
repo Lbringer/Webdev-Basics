@@ -7,3 +7,6 @@
 [submodule "API/Shout-Review"]
 	path = API/Shout-Review
 	url = https://github.com/Lbringer/Shout-Review.git
+[submodule "Frontend/FotoFlix"]
+	path = Frontend/FotoFlix
+	url = https://github.com/Lbringer/FotoFlix.git
