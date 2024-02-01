@@ -10,3 +10,6 @@
 [submodule "Frontend/FotoFlix"]
 	path = Frontend/FotoFlix
 	url = https://github.com/Lbringer/FotoFlix.git
+[submodule "Frontend/Spotify-Clone"]
+	path = Frontend/Spotify-Clone
+	url = https://github.com/Lbringer/Spotify-Clone.git
