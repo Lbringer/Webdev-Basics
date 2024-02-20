@@ -13,3 +13,6 @@
 [submodule "Frontend/Spotify-Clone"]
 	path = Frontend/Spotify-Clone
 	url = https://github.com/Lbringer/Spotify-Clone.git
+[submodule "Fullstack/Jobify"]
+	path = Fullstack/Jobify
+	url = https://github.com/Lbringer/Jobify.git
