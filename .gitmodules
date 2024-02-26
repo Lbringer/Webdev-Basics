@@ -16,3 +16,6 @@
 [submodule "Fullstack/Jobify"]
 	path = Fullstack/Jobify
 	url = https://github.com/Lbringer/Jobify.git
+[submodule "API/E-Wallet"]
+	path = API/E-Wallet
+	url = https://github.com/Lbringer/E-Wallet.git
